@@ -4,13 +4,6 @@ A common Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+  This project is the basic project of flutter development, mainly in directory naming, routing processing, network requests and other aspects of the initial packaging, adding some common dependency libraries, such as loading H5; follow-up will continue to upload and update new content, but also hope that you can make more comments (usually used good dependency libraries)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  本工程是作为flutter开发的基础工程，主要是在目录命名，路由处理，网络请求等方面做了初级封装，添加了一些常用依赖库，比如加载H5；后续会不断上传更新新的内容，也希望大家多提意见（平时用到的好的依赖库）
